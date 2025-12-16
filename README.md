@@ -129,9 +129,9 @@ These notes are prepared **for learning and reference purposes only**. Please ve
 
 **Name:** Niraj Bhatta
 **Field:** Computer Engineering Student
-**Email:** [your.email@example.com](mailto:your.email@example.com)
-**GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
-**LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Email:** bhattaniraj559@gmail.com , niraj.231326@ncit.edu.np
+**GitHub:** https://github.com/Niraj-Bhatta
+**LinkedIn:** https://www.linkedin.com/in/nirajbhatta559/
 
 ---
 
