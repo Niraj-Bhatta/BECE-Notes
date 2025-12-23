@@ -38,43 +38,51 @@ Each semester folder includes:
 
 ### 🔹 Semester I
 
-* Engineering Mathematics I
-* Engineering Physics
+* Calculas-I
+* Electronic Devices and Circuits
 * Basic Electrical Engineering
-* Engineering Drawing
-* Introduction to Programming
+* C programming
+* Communication Techniques
+* Computer Workshop
+* Digital Logics
 
 ### 🔹 Semester II
 
-* Engineering Mathematics II
+* Analytical Geometry
 * Engineering Chemistry
-* Object-Oriented Programming
-* Basic Electronics Engineering
-* Communication Techniques
+* Object-Oriented Programming in C
+* Data Structure and Algorithms
+* Instrumentation
+* Engineering Physics
+* Engineering Drawing
+
 
 ### 🔹 Semester III
 
-* Data Structures & Algorithms
-* Discrete Mathematics
-* Digital Logic
-* Computer Organization
-* Probability & Statistics
+* Data Communication
+* Calculas-II
+* Microprocessor and Assembly Level Programming
+* Computer Graphics
+* DataBase Management System
+* Operating Systems
 
 ### 🔹 Semester IV
 
-* Operating Systems
-* Database Management Systems
-* Microprocessor
+* Theory of Computation
+* Advanced Programming in Java
+* Applied Maths
 * Numerical Methods
-* Software Engineering
+* Computer Architecture
+* Research Fundamentals
 
 ### 🔹 Semester V
 
-* Computer Networks
-* Theory of Computation
-* Web Technology
-* System Analysis & Design
-* Elective I
+* Probability and Statistics
+* Software Engineering
+* Artificial Intelligence
+* Digital Signal Analysis and Processing
+* Embedded Systems
+* Engineering Management
 
 ### 🔹 Semester VI
 
@@ -108,6 +116,7 @@ Each semester folder includes:
 * ✅ Easy-to-read notes
 * ✅ Beginner-friendly explanations
 * ✅ Helpful for juniors & peers
+* ✅ Past Questions Collection
 
 ---
 
