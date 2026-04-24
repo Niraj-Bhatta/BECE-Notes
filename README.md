@@ -87,10 +87,12 @@ Each semester folder includes:
 ### 🔹 Semester VI
 
 * Compiler Design
-* Artificial Intelligence
-* Information Security
-* Distributed Systems
-* Elective II
+* Computer Network
+* Image Processing and Pattern Recognization
+* Machine Learning
+* Simulation and Modeling
+* Elective I
+
 
 ### 🔹 Semester VII
 
@@ -141,6 +143,7 @@ These notes are prepared **for learning and reference purposes only**. Please ve
 **Email:** bhattaniraj559@gmail.com , niraj.231326@ncit.edu.np
 **GitHub:** https://github.com/Niraj-Bhatta
 **LinkedIn:** https://www.linkedin.com/in/nirajbhatta559/
+**Youtube:**https://www.youtube.com/@educationifyy
 
 ---
 
