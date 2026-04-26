@@ -92,6 +92,7 @@ Each semester folder includes:
 * Machine Learning
 * Simulation and Modeling
 * Elective I
+* Project-I
 
 
 ### 🔹 Semester VII
